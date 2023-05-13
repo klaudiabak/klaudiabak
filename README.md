@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @klaudiabak
-- 👀 I’m interested in flutter developer jobs
+- 👀 I’m interested in flutter developer job
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me bakklaudia1804@gmail.com
 
